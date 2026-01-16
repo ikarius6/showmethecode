@@ -1,6 +1,6 @@
 {
   "name": "showmethecode",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Analyze GitHub developer profiles using AI to estimate seniority level and tech stack",
   "type": "module",
   "bin": {

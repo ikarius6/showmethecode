@@ -57,7 +57,8 @@ export function displayResults(result: AnalysisResult): void {
     'Junior': chalk.green,
     'Mid-Level': chalk.yellow,
     'Senior': chalk.magenta,
-    'Principal/Staff': chalk.red
+    'Principal/Staff': chalk.red,
+    'Superstar': chalk.cyan
   };
   
   const colorFn = seniorityColors[seniorityLevel] || chalk.white;
